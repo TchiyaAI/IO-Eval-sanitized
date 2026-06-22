@@ -6,7 +6,7 @@ This repository is the **public, sanitized release**. Executable adversarial
 artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](RESPONSIBLE_RELEASE.md).
 
 ## Overview
-This project measures whether frontier and open-weight models provide meaningful
+This project measures whether frontier and open-weight models provide meaningful.
 **uplift** to actors running online influence operations, and anchors that
 measurement in a recognised analytic framework so the results are interpretable
 and actionable for platforms and regulators rather than ad hoc.
