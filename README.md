@@ -19,7 +19,7 @@ and actionable for platforms and regulators rather than ad hoc.
 - Grading: an LLM judge with blinded human review; **11,088 graded samples**.
 - Headline measure: a **Compound Uplift Score**, plus per-step completion and refusal rates.
 
-Full detail in [`METHODOLOGY.md`](METHODOLOGY.md).
+Full detail in [`METHODOLOGY.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Methodology).
 
 ## Key findings (high level)
 - Near-universal task compliance across the kill chain.
