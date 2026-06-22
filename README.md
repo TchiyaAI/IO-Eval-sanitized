@@ -59,4 +59,3 @@ team before publishing.]** ValgrAI / University of Valencia, 2026.
 ## Access requests
 Structured access to withheld artifacts for vetted research or audit: **[your email]**.
 
-<img width="462" height="690" alt="image" src="https://github.com/user-attachments/assets/3c081628-078b-4660-90e5-aa3d5d564430" />
