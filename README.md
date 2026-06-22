@@ -3,7 +3,7 @@
 
 **Status:** Preprint forthcoming (ValgrAI / University of Valencia, 2026).
 This repository is the **public, sanitized release**. Executable adversarial
-artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](RESPONSIBLE_RELEASE.md).
+artifacts are deliberately withheld. See [`RESPONSIBLE_RELEASE.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Responsible_Release).
 
 ## Overview
 This project measures whether frontier and open-weight models provide meaningful.
