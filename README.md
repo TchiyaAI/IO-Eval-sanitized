@@ -50,10 +50,10 @@ inspect eval eval/harness.py --model <provider/model>
 ```
 
 ## Citation
-See [`CITATION.cff`](CITATION.cff).
+See [`CITATION.cff`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Citation).
 
 ## Authors
-Jodie Levy, Sumaya Adan, Anna Liashenko, ValgrAI / University of Valencia, 2026.
+Jodie Levy, Sumaya Adan, Anna Liashenko, International Programme on AI Evaluation, Capabilities & Safety, ValgrAI / University of Valencia, 2026.
 
 ## Access requests
 Structured access to withheld artifacts for vetted research or audit - jodieamelialevy@gmail.com
