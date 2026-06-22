@@ -31,10 +31,10 @@ Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMA
 
 ## Repository structure
 - `METHODOLOGY.md` ‚Äî framework, scoring scheme, validity notes.
-- `eval/` ‚Äî evaluation **harness skeleton** with a **benign placeholder task** that
+- `eval/` ‚AI evaluation **harness skeleton** with a **benign placeholder task** that
   demonstrates the pipeline end to end without any influence-operations content.
-- `results/SUMMARY.md` ‚Äî aggregate findings.
-- `RESPONSIBLE_RELEASE.md` ‚Äî what is withheld and why.
+- `results/SUMMARY.md` ‚AI aggregate findings.
+- `RESPONSIBLE_RELEASE.md`  AI what is withheld and why.
 
 ## What is withheld
 The task bank, elicitation prompts, multi-turn attack scaffolding, and raw model
