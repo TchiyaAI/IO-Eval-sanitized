@@ -27,7 +27,7 @@ Full detail in [`METHODOLOGY.md`](METHODOLOGY.md).
 - Large quality gap between English and Russian outputs.
 - Order-of-magnitude cost spread across models.
 
-Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](results/SUMMARY.md).
+Per-step tables and figures are in the forthcoming preprint. See [`results/SUMMARY.md`](https://github.com/TchiyaAI/IO-Eval-sanitized/blob/main/Results%20Summary).
 
 ## Repository structure
 - `METHODOLOGY.md` ‚Äî framework, scoring scheme, validity notes.
@@ -53,9 +53,8 @@ inspect eval eval/harness.py --model <provider/model>
 See [`CITATION.cff`](CITATION.cff).
 
 ## Authors
-Jodie Levy and collaborators. **[Fill in the full author list and supervisor with the
-team before publishing.]** ValgrAI / University of Valencia, 2026.
+Jodie Levy, Sumaya Adan, Anna Liashenko, ValgrAI / University of Valencia, 2026.
 
 ## Access requests
-Structured access to withheld artifacts for vetted research or audit: **[your email]**.
+Structured access to withheld artifacts for vetted research or audit - jodieamelialevy@gmail.com
 
